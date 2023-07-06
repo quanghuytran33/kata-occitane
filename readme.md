@@ -76,7 +76,7 @@ Click on the `Open` button.
 4) Navigate to Petclinic
     Visit [http://localhost:8080](http://localhost:8080) in your browser.
 
-### Technical assessement
+## Technical assessement
 
 1. What impressions do you have on the architecture of this app? 
 
